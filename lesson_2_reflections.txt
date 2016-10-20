@@ -9,3 +9,6 @@ By using the git diff --staged we can get to know the differences between the st
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Branches help in experimenting without affecting the existing master branch. Naming each branch appropriately will help us in tracking the history of the code easily.
+
+How do the diagrams help you visualize the branch structure?
+Branch diagram of repository shows the purpose of a branch, last commit of each branch and comes handy if we want to include the changes in one branch to another.
