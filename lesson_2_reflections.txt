@@ -15,3 +15,6 @@ Branch diagram of repository shows the purpose of a branch, last commit of each 
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Merging two branches includes the changes in one to the checked out branch using the recursion strategy. Representing it in the diagram helps in visualising the two branches seperately and their commits. If any changes are to be made after the merge, it would be easy to find out where to change.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging helps in avoiding human errors like forgeting to include some changes, resolving conflists during merging is easier with auto merging.
