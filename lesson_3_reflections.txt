@@ -8,3 +8,6 @@ Describe the differences between forks, clones, and branches. When would you use
 I will use Forks - when I want to make changes to someones repsitory and i dont have permissions to edit that or I want to add changes to that in my own repository.
 Clones - when I want to have a local repository of a repository that is not in my computer.
 Branches - when I want to try some experiments/changes and dont want the changes to effect the other branches.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+This helps Git in deciding whether the next pull should be a fast forward merge or a normal merge.
