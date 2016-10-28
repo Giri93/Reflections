@@ -14,3 +14,6 @@ This helps Git in deciding whether the next pull should be a fast forward merge 
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 By talking directly or through email. Using Github would be easier than the other as it will have all the information about the required in it.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When we are not sure whether the change we are about to make will work or not and so we dont want to do it on master.
