@@ -11,3 +11,6 @@ Branches - when I want to try some experiments/changes and dont want the changes
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 This helps Git in deciding whether the next pull should be a fast forward merge or a normal merge.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+By talking directly or through email. Using Github would be easier than the other as it will have all the information about the required in it.
